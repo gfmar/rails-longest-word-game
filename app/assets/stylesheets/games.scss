@@ -1,0 +1,14 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#game_chars {
+  padding: 5px;
+  background-color: #3498DC;
+  color: white;
+  opacity: 0.9;
+}
+
+#guess {
+  margin: 25px;
+}
